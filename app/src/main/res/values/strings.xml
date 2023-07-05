@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Baketball Score</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_label_local">LOCAL</string>
+    <string name="tv_label_visitant">VISITANT</string>
+    <string name="tv_label_localvisitant">LOCAL-VISITANT</string>
+    <string name="tv_label_team_win"></string>
+    <string name="local_won">¡El equipo local gana!</string>
+    <string name="visitor_won">¡El equipo visitante gana!</string>
+    <string name="it_was_a_tie">¡Los 2 equipos empatan!</string>
 </resources>
